@@ -1,0 +1,24 @@
+{
+  "name": "amikoo-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adryana2021/amikoo-tests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adryana2021/amikoo-tests/issues"
+  },
+  "homepage": "https://github.com/adryana2021/amikoo-tests#readme",
+  "devDependencies": {
+    "@muuktest/amikoo-reporter": "^1.2.5",
+    "@playwright/test": "^1.62.1",
+    "@types/node": "^26.2.0"
+  }
+}
